@@ -1,0 +1,20 @@
+# Build and Release Folders
+bin/
+bin-debug/
+bin-release/
+
+# Other files and folders
+.settings/
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+
+
+# Notes
+# http://machiine.com/2013/pulling-a-git-repo-from-github-to-your-ubuntu-server/
+
+
+# General Excludes
+*.swp
+*.DS_Store
